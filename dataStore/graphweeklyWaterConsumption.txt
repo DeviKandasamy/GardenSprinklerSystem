@@ -1,0 +1,5 @@
+//Weekly WaterConsumption , Format - Zone	Water Consumption (in Liters)
+North	636
+South	0
+East	123
+West	0
